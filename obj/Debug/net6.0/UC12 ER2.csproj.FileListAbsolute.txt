@@ -1,0 +1,30 @@
+C:\Users\jose1\Documents\Senai UC12\UC12 ER2\obj\Debug\net6.0\UC12 ER2.csproj.AssemblyReference.cache
+C:\Users\jose1\Documents\Senai UC12\UC12 ER2\obj\Debug\net6.0\UC12 ER2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose1\Documents\Senai UC12\UC12 ER2\obj\Debug\net6.0\UC12 ER2.AssemblyInfoInputs.cache
+C:\Users\jose1\Documents\Senai UC12\UC12 ER2\obj\Debug\net6.0\UC12 ER2.AssemblyInfo.cs
+C:\Users\jose1\Documents\Senai UC12\UC12 ER2\obj\Debug\net6.0\UC12 ER2.csproj.CoreCompileInputs.cache
+C:\Users\jose1\Documents\Senai UC12\UC12 ER2\bin\Debug\net6.0\UC12 ER2.exe
+C:\Users\jose1\Documents\Senai UC12\UC12 ER2\bin\Debug\net6.0\UC12 ER2.deps.json
+C:\Users\jose1\Documents\Senai UC12\UC12 ER2\bin\Debug\net6.0\UC12 ER2.runtimeconfig.json
+C:\Users\jose1\Documents\Senai UC12\UC12 ER2\bin\Debug\net6.0\UC12 ER2.dll
+C:\Users\jose1\Documents\Senai UC12\UC12 ER2\bin\Debug\net6.0\UC12 ER2.pdb
+C:\Users\jose1\Documents\Senai UC12\UC12 ER2\obj\Debug\net6.0\UC12 ER2.dll
+C:\Users\jose1\Documents\Senai UC12\UC12 ER2\obj\Debug\net6.0\refint\UC12 ER2.dll
+C:\Users\jose1\Documents\Senai UC12\UC12 ER2\obj\Debug\net6.0\UC12 ER2.pdb
+C:\Users\jose1\Documents\Senai UC12\UC12 ER2\obj\Debug\net6.0\UC12 ER2.genruntimeconfig.cache
+C:\Users\jose1\Documents\Senai UC12\UC12 ER2\obj\Debug\net6.0\ref\UC12 ER2.dll
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\bin\Debug\net6.0\UC12 ER2.exe
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\bin\Debug\net6.0\UC12 ER2.deps.json
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\bin\Debug\net6.0\UC12 ER2.runtimeconfig.json
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\bin\Debug\net6.0\UC12 ER2.dll
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\bin\Debug\net6.0\UC12 ER2.pdb
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\obj\Debug\net6.0\UC12 ER2.csproj.AssemblyReference.cache
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\obj\Debug\net6.0\UC12 ER2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\obj\Debug\net6.0\UC12 ER2.AssemblyInfoInputs.cache
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\obj\Debug\net6.0\UC12 ER2.AssemblyInfo.cs
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\obj\Debug\net6.0\UC12 ER2.csproj.CoreCompileInputs.cache
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\obj\Debug\net6.0\UC12 ER2.dll
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\obj\Debug\net6.0\refint\UC12 ER2.dll
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\obj\Debug\net6.0\UC12 ER2.pdb
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\obj\Debug\net6.0\UC12 ER2.genruntimeconfig.cache
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\obj\Debug\net6.0\ref\UC12 ER2.dll

@@ -1,0 +1,15 @@
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\bin\Debug\net6.0\UC12_ER2_ER5.exe
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\bin\Debug\net6.0\UC12_ER2_ER5.deps.json
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\bin\Debug\net6.0\UC12_ER2_ER5.runtimeconfig.json
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\bin\Debug\net6.0\UC12_ER2_ER5.dll
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\bin\Debug\net6.0\UC12_ER2_ER5.pdb
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\obj\Debug\net6.0\UC12_ER2_ER5.csproj.AssemblyReference.cache
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\obj\Debug\net6.0\UC12_ER2_ER5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\obj\Debug\net6.0\UC12_ER2_ER5.AssemblyInfoInputs.cache
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\obj\Debug\net6.0\UC12_ER2_ER5.AssemblyInfo.cs
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\obj\Debug\net6.0\UC12_ER2_ER5.csproj.CoreCompileInputs.cache
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\obj\Debug\net6.0\UC12_ER2_ER5.dll
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\obj\Debug\net6.0\refint\UC12_ER2_ER5.dll
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\obj\Debug\net6.0\UC12_ER2_ER5.pdb
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\obj\Debug\net6.0\UC12_ER2_ER5.genruntimeconfig.cache
+C:\Users\jose1\Documents\Senai UC12\UC12_ER2_ER5\obj\Debug\net6.0\ref\UC12_ER2_ER5.dll
